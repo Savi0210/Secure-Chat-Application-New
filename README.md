@@ -1,16 +1,14 @@
-# Secure Chatting Application
-Secure Chatting Application developed by PHP, JavaScript, and MySQL.
+Secure Chatting Application
+A secure chatting application developed using PHP, JavaScript, and MySQL.
 
-## Algorithms
-• DES (Not Fully Functional)<br/>
-• AES<br/>
-• RSA<br/>
-• Diffie-Hellman (Key Exchange for DES and AES)<br/>
-• ElGamal<br/>
+Algorithms
+DES (Data Encryption Standard): Not fully functional
+AES (Advanced Encryption Standard)
+RSA (Rivest–Shamir–Adleman)
+Diffie-Hellman: Used for key exchange for DES and AES
+ElGamal
+Note: All algorithms are custom-implemented from scratch. ✅
 
-**All algorithms are implemented from scratch ✅**
-
- Included Files
-• Documentation (Detailed Description on each Algorithm)<br/>
-• SQL file (sp_chat.sql)
-
+Included Files
+Documentation: Provides a detailed description of each algorithm
+SQL File: Contains the database schema (sp_chat.sql)
